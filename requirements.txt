@@ -1,0 +1,10 @@
+# Core dependencies
+numpy
+opencv-python
+Pillow
+torch
+PyQt5
+
+# Optional/advanced features
+segment-anything
+matanyone

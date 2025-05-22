@@ -47,7 +47,7 @@ This project provides a GUI tool for generating alpha mattes from images and vid
 ## Usage
 Run the GUI application:
 ```powershell
-python ui.py
+python run.py
 ```
 
 - Select a model from the dropdown or set a custom weights folder.

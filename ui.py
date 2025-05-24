@@ -52,7 +52,7 @@ class MatteGeneratorApp(QMainWindow):
             format="%(asctime)s - %(levelname)s - %(message)s"
         )
         logging.info("MatteGeneratorApp initialized.")
-        self.setWindowTitle("Knack pyTools MatteGen 0.2")
+        self.setWindowTitle("PyTools MatteGen 0.2")
         self.setGeometry(100, 100, 800, 600)
 
         # Variables
@@ -258,7 +258,7 @@ class MatteGeneratorApp(QMainWindow):
         self.sam_point_mode = False
 
         # Studio Version Text\
-        studio_version_label = QLabel(" Knack PyTools MatteGen 0.2")
+        studio_version_label = QLabel("PyTools MatteGen 0.2")
         studio_version_label.setAlignment(Qt.AlignCenter)
         main_tab_layout.addWidget(studio_version_label)
 

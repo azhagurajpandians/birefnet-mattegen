@@ -3,8 +3,11 @@ numpy
 opencv-python
 Pillow
 torch
-PyQt5
-
-# Optional/advanced features
-segment-anything
-matanyone
+PyQt6
+torchvision
+openexr
+timm
+segment_anything
+huggingface_hub
+kornia
+einops

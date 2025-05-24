@@ -3,7 +3,7 @@ numpy
 opencv-python
 Pillow
 torch
-PyQt6
+Pyside6
 torchvision
 openexr
 timm
